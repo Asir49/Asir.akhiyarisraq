@@ -1,6 +1,6 @@
 # asir.akhiyarisraq's Personal Website
 
-Welcome to my personal GitHub website! Here I share my interests in hiking, gaming, and my travel dreams.
+Welcome to my personal GitHub website!
 
 ## Connect with me
 - **Facebook**: [Akhiyar Israq Asir](https://www.facebook.com/Akhiyar.Israq.Asir)
